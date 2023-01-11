@@ -30,12 +30,6 @@ function init() {
         name: 'description',
       },
     {
-        type: 'input',
-        message: 'Table of Contents:',
-        name: 'tableOfContents',
-      },
- 
-    {
       type: 'input',
       message: 'How do you install the app?',
       name: 'installInstructions',
@@ -51,7 +45,7 @@ function init() {
         type: 'checkbox',
         message: 'License:',
         name: 'license',
-        choices: ["None", "MIT", "WTFPL"]
+        choices: ["None", "", ""]
       },
       {
         type: 'input',
