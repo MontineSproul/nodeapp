@@ -55,8 +55,8 @@ ${data.contributing}
 ## Tests
 ${data.tests}
 ## Questions?
-Github: ${data.questions1}
-Email: ${data.questions2}
+You can find me on Github at [https://github.com/${data.user}](https://github.com/${data.user})
+or shoot me an Email at: [${data.email}](${data.email})
 
 `;
 }

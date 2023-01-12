@@ -1,7 +1,7 @@
-# TESTING 
+# 
  [![License: ](https://img.shields.io/badge/License--yellow.svg)](https://opensource.org/licenses/) 
 ## Description 
-THIS IS A PROJECT THAT WILL CREATE A README FOR YOU BASED ON THE PROMPTS IN THE COMMAND LINE
+
 ## Table of Contents
 ### [Description](#description)
 ### [Installation](#installation)
@@ -12,16 +12,16 @@ THIS IS A PROJECT THAT WILL CREATE A README FOR YOU BASED ON THE PROMPTS IN THE 
 ### [Questions](#questions)
 undefined
 ## Installation
-DOWNLOAD IT FROM GITHUB
+
 ## Usage
-ANY DEVELOPER NEEDING A QUICK README
+
 ## License
 This project is licensed under the  license.
 ## Contributing
-NONE
+
 ## Tests
-ENTER YOUR INFO AND GENERATE THE README
+
 ## Questions?
-Github: MontineSproul
-Email: montinesproul@gmail.com
+Github: [https://github.com/MontineSproul](https://github.com/MontineSproul)
+Email: [montinesproul@gmail.com](montinesproul@gmail.com)
 

@@ -60,12 +60,12 @@ function init() {
       {
         type: 'input',
         message: 'Enter Github user name:',
-        name: 'questions1',
+        name: 'user',
       },
       {
         type: 'input',
         message: 'Enter email address:',
-        name: 'questions2',
+        name: 'email',
       }
   ])
   // Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
@@ -74,7 +74,7 @@ function init() {
     console.log(response)
     const createREADME = generateMarkdown(response);
     console.log(createREADME);
-    writeToFile('README.md', createREADME);
+    writeToFile('genREADME.md', createREADME);
 //  this is the same thing as line 42 
 //    fs.writeFile('README.md', createREADME, (err) =>
 //     err ? console.error(err) : console.log('Success!')
