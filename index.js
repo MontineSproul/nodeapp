@@ -45,7 +45,7 @@ function init() {
         type: 'checkbox',
         message: 'License:',
         name: 'license',
-        choices: ["None", "", ""]
+        choices: ["BSD_3", "MIT", "GPL_3.0", "NONE"]
       },
       {
         type: 'input',
