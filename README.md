@@ -14,7 +14,7 @@ DOWNLOAD IT FROM GITHUB
 ## Usage
 ANY DEVELOPER NEEDING A QUICK README
 ## Screen Recording DEMO
-[Screencastify Recording](https://drive.google.com/file/d/1dvc3Pin9TY9GcM2sTSjI9bCDdmNTGkqe/view)
+[https://drive.google.com/file/d/1dvc3Pin9TY9GcM2sTSjI9bCDdmNTGkqe/view](https://drive.google.com/file/d/1dvc3Pin9TY9GcM2sTSjI9bCDdmNTGkqe/view)
 
 ## Questions?
 Github: MontineSproul
