@@ -1,26 +1,21 @@
-# TESTING 
- [![License: ](https://img.shields.io/badge/License--yellow.svg)](https://opensource.org/licenses/) 
+# Generate README app
+
+
 ## Description 
-THIS IS A PROJECT THAT WILL CREATE A README FOR YOU BASED ON THE PROMPTS IN THE COMMAND LINE
+This is an app that will generate a README based on the prompts you answer in the command line 
 ## Table of Contents
 ### [Description](#description)
-### [Installation](#installation)
 ### [Usage](#usage)
-### [License](#license)
-### [Contributing](#contributing)
-### [Tests](#tests)
+### [Screen Recording](#screenrecording)
 ### [Questions](#questions)
 undefined
 ## Installation
 DOWNLOAD IT FROM GITHUB
 ## Usage
 ANY DEVELOPER NEEDING A QUICK README
-## License
-This project is licensed under the  license.
-## Contributing
-NONE
-## Tests
-ENTER YOUR INFO AND GENERATE THE README
+## Screen Recording DEMO
+[Screencastify Recording](https://drive.google.com/file/d/1dvc3Pin9TY9GcM2sTSjI9bCDdmNTGkqe/view)
+
 ## Questions?
 Github: MontineSproul
 Email: montinesproul@gmail.com

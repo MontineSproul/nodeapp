@@ -2,11 +2,11 @@
 const inquirer = require('inquirer')
 const generateMarkdown = require('./utils/generateMarkdown');
 const fs = require('fs');
-// TODO: Create an array of questions for user input
+//Create an array of questions for user input
 const questions = [];
 //to make inquire prompt cleaner
 
-// TODO: Create a function to write README file
+//Create a function to write README file
 function writeToFile(fileName, data) {
     //fs write file goes here (takes js data and creates a literal file on comp)
     fs.writeFile(fileName, data, (err) =>
@@ -14,7 +14,7 @@ function writeToFile(fileName, data) {
 );
 }
 
-// TODO: Create a function to initialize app
+//Create a function to initialize app
 function init() {
     //inquirer prompt (questions)
     inquirer
